@@ -1,8 +1,5 @@
 Privacy Policy for WeekTask
-Effective Date: November 13, 2026
-Last Updated: November 13, 2026
-Application Name: WeekTask 
-Package Name: com.weektask.planner Developer / Publisher: ouayat studio Contact Email: ouayatstudio@gmail.com
+Effective Date: November 13, 2026 Last Updated: November 13, 2026 Application Name: WeekTask Package Name: com.weektask.planner Developer / Publisher: ouayat studio Contact Email: ouayatstudio@gmail.com
 1. Introduction
 Welcome to WeekTask ("the Application"), developed by ouayat studio ("we", "us", or "our"). We respect your privacy and are committed to protecting it through our compliance with this Privacy Policy.
 This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application WeekTask. Please read this Privacy Policy carefully. If you do not agree with the terms of this Privacy Policy, please do not access or use the Application.
