@@ -36,8 +36,6 @@ android.permission.POST_NOTIFICATIONS: Required to deliver task reminder notific
 •
 android.permission.SCHEDULE_EXACT_ALARM: Required to schedule precise task alarms and reminders.
 •
-android.permission.RECEIVE_BOOT_COMPLETED: Required to restore task notifications after your device reboots.
-•
 com.google.android.gms.permission.AD_ID: Required by Google AdMob to deliver advertising on SDK 33+.
 5. Children’s Privacy
 WeekTask does not knowingly collect or solicit any personal information from children under the age of 13. If you believe that a child has provided us with personal information, please contact us so we can take immediate corrective steps.
