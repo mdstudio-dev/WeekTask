@@ -1,5 +1,5 @@
 Privacy Policy for WeekTask
-Effective Date: January 1, 2026 
+Effective Date: November 16, 2026
 Publisher: ouayat studio 
 App Name: WeekTask: Planner
 1. Overview & Privacy Guarantee
@@ -48,6 +48,5 @@ If you have any questions, feedback, or inquiries regarding this Privacy Policy,
 •
 Publisher: ouayat studio
 •
-Email: support@ouayatstudio.com (Replace with your official support email)
-•
-App: WeekTask: Weekly Planner Schedule
+Email: ouayatstudio@gmail.com 
+App: WeekTask: Planner 
